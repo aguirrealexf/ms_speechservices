@@ -7,4 +7,4 @@ Se consigue validar el funcionamiento de los servicios y de la idea en general.
 ## Puntos de mejora
 
 - aun no se cuenta con una interfaz de algún tipo, todo se lleva a cabo desde un notebook python.
-- las especificaciones del formato de salida estan definidas en el codigo, no se solicita al usuario que las especifique.
+- las especificaciones del formato de salida están definidas en el código, no se solicita al usuario que las especifique.
